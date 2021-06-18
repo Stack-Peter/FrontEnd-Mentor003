@@ -1,3 +1,4 @@
+Link solved challenge: https://nervous-bose-9ac46c.netlify.app
 # Frontend Mentor - Profile card component
 
 ![Design preview for the Profile card component coding challenge](./design/desktop-preview.jpg)
